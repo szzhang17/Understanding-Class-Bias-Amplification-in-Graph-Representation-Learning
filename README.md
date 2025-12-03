@@ -1,5 +1,5 @@
 # Understanding Class Bias Amplification in Graph Representation Learning
-
+Code for the paper "Understanding Class Bias Amplification in Graph Representation Learning". 
 
 ## Requirement
 * pytorch == 1.10.1  
